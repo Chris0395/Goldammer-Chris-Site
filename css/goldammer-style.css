@@ -1,0 +1,21 @@
+html {
+	min-height: 100%;
+}
+
+body {
+	background: rgb(10,10,71);
+	background: linear-gradient(114deg, rgba(10,10,71,1) 0%, rgba(16,16,168,1) 31%, rgba(177,0,255,1) 100%); 
+}
+
+#index-name {
+	position:relative;
+	top: 200px;
+}
+
+.css-purple {
+	color: rgba(177,0,255,1);
+}
+
+.css-mint {
+	color: #48C698;
+}
