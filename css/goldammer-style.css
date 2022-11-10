@@ -9,7 +9,8 @@ body {
 }
 
 #index-name-h1 {
-	color: #48C698;
+	/* Empty for now */
+	
 }
 
 #index-name {
@@ -17,6 +18,11 @@ body {
 	top: 200px;
 }
 
-#index-hello {
+
+.css-purple {
 	color: rgba(177,0,255,1);
+}
+
+.css-mint {
+	color: #48C698;
 }
